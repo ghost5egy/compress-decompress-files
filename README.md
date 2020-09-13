@@ -2,3 +2,5 @@
 usage
 
 compress.py zipfilename.zip files dirs ....
+
+decompress.py zipfilename.zip 
